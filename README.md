@@ -1,3 +1,2 @@
-# 缅甸语录音测试
-
-用于缅甸语录音测试。
+#Burmese language recording test
+Used for Burmese language recording testing.
