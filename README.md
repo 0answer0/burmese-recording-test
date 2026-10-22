@@ -1,2 +1,3 @@
-# burmese-recording-test
-缅甸语录音测试
+# 缅甸语录音测试
+
+用于缅甸语录音测试。
